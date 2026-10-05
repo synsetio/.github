@@ -1,4 +1,4 @@
-# Work piling up? Done!
+# Work piling up? Consider it done.
 
 Industry, tech, education: Synsetio uses AI to take the tasks that eat up your week off your plate, and hands back finished work. The price is fixed before we start, so you can compare it with what the task costs you today.
 
