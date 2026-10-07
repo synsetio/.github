@@ -1,10 +1,10 @@
 # Work piling up? Consider it done.
 
-A technical response, a security questionnaire, a Qualiopi or EcoVadis file: you send your documents, we hand back the finished file before your deadline. Our AI drafting pipeline writes the first draft, and a person checks every answer. Fixed price, set before we start.
+Tenders, customer questionnaires, documentation, replies: the work piling up, our AI workflows take it on and a person checks every deliverable. You get the finished work, or the workflow itself, in your own tools. Fixed price, set before we start.
 
 **[Show us the task →](https://www.synsetio.com/en#contact)** · [Prices](https://www.synsetio.com/en/pricing) · [En français](https://www.synsetio.com/fr)
 
-## What we write
+## What we take on
 
 | Tech and startups | Industry | Education and training |
 | --- | --- | --- |
@@ -15,21 +15,25 @@ A technical response, a security questionnaire, a Qualiopi or EcoVadis file: you
 
 Another sector? [Show us the task](https://www.synsetio.com/en#contact).
 
-## One price per file
+## Three ways to work together
 
-Every file has a fixed price, set from your documents before we start, and a delivery date confirmed within 24 business hours. [Prices and delivery times](https://www.synsetio.com/en/pricing).
+- **A one-off job:** a file, a questionnaire, a piece of documentation, delivered complete and sourced.
+- **Recurring work, every month:** our AI workflows handle your recurring volume, a person checks it, and you get the finished work every month.
+- **A workflow in your tools:** installed in your software, tested, documented, and yours to keep.
 
-## Every file, every time
+Always at a fixed price, set before we start. [Prices and delivery times](https://www.synsetio.com/en/pricing).
+
+## Every job, every time
 
 - The price is set before we start. If we're late, 20% off.
 - Every answer cites its source. Anything missing is flagged, never invented.
-- Your documents serve your file and nothing else; we never use them to train AI models.
+- Your documents serve your work and nothing else; we never use them to train AI models.
 - Anything that commits you, you review and send yourself.
 - No tender won in advance, no score or certificate promised: the buyer or the evaluator decides.
 
 ## Looking for our code?
 
-We deliver finished files, not software, so you won't find client code here.
+Workflows we build for a client go into the client's own tools and repositories, so you won't find them here.
 
 ---
 
