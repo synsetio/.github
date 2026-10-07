@@ -1,6 +1,6 @@
 # Work piling up? Consider it done.
 
-Tenders, customer questionnaires, documentation, replies: the work piling up, our AI workflows take it on and a person checks every deliverable. You get the finished work, or the workflow itself, in your own tools. Fixed price, set before we start.
+Recurring tasks, files due, requests waiting: our AI workflows take them on, and a person checks. At a fixed price.
 
 **[Show us the task →](https://www.synsetio.com/en#contact)** · [Prices](https://www.synsetio.com/en/pricing) · [En français](https://www.synsetio.com/fr)
 
